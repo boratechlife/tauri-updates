@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.2.2",
   "notes": " Bug fixes and performance improvements.",
   "pub_date": " 2025-07-01T12:00:00Z",
   "platforms": {
@@ -9,7 +9,7 @@
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVUIvK0c4ZTlKRmhlUWxMcnh0NmhBa3QybVhjS2NZOFRLQXhtQllyYWNiSmgxajJFb1UwZExYbExYZ0VwTGdnMzJ5azJINmJLNlJxTElXSXpUakhXZm1nTjUrS0Fud1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNzI5MzYzCWZpbGU6UHJvcGVydHkgTUlTXzAuMS4wX3g2NC1zZXR1cC5leGUKcVNQSUlpazY3cHhtQy9WWnAzNjZQN3VYY2hzMDIyWXNMc2NwYi9jZUQ0T2FoRmY5cFNSTVNqbEN6Wk45VTZDWUUzVHF3Q2c0QjRsNnF3cDNyN3FiQkE9PQo=",
-      "url": "https://github.com/boratechlife/tauri-updates/blob/main/release/Property%20MIS_0.1.0_x64-setup.exe"
+      "url": "https://raw.githubusercontent.com/boratechlife/tauri-updates/refs/heads/main/release/Property%20MIS_0.1.0_x64-setup.exe"
     },
     "darwin-x86_64": {
       "signature": "",
