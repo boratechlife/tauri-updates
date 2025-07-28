@@ -1,0 +1,19 @@
+{
+  "version": "1.0.1",
+  "notes": " Bug fixes and performance improvements.",
+  "pub_date": " 2025-07-01T12:00:00Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
